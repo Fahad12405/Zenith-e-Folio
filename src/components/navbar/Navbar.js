@@ -95,7 +95,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                href="https://tomato-cassie-69.tiiny.site"
+                href="https://fahadalam-resume.tiiny.site/"
                 target="_blank"
                 rel="noreferrer"
               >
