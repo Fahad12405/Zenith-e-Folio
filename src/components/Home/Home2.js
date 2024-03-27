@@ -5,7 +5,7 @@ import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
   AiFillFacebook,
-  AiFillTwitterCircle,
+ 
 
   AiFillInstagram,
   AiOutlineMail,
@@ -97,18 +97,8 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-              <a
-               
-                className="icon-colour home-social-icons"
-                href="https://twitter.com/FahadAlam12405"
-                target="_blank"
-                rel=" noreferrer"
-                aria-label="Twitter"
-              >
-                <AiFillTwitterCircle />
-              </a>
-            </li>
+
+         
             <li className="social-icons">
               <a
                
