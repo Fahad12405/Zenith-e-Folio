@@ -95,7 +95,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item>
               <Nav.Link
-                href="https://zenith-e-folio.tiiny.site"
+                href="https://fahadalam.tiiny.site"
                 target="_blank"
                 rel="noreferrer"
               >
